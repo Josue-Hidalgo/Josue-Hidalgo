@@ -12,7 +12,7 @@ I'm a dedicated computer science student at the Institute of Technology of Costa
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Josue-Hidalgo&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Josue-Hidalgo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
